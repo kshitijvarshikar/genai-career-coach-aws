@@ -8,7 +8,7 @@ GenAI Career Coach is a cloud-based application that analyzes resumes, evaluates
 
 ## Architecture
 
-![System Benefits](system-benefits.png.png)
+![System Benefits](system-benefits.png)
 
 ![Architecture Diagram](ai-resume-ranking-architecture.png)
 
